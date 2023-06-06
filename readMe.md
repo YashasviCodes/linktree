@@ -1,3 +1,3 @@
 
 #### website 
-https://github.com/yashasviyadav1/linktree
+https://yashasviyadav1.github.io/linktree
